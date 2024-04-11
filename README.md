@@ -33,4 +33,4 @@ If you're using this code (main repo by adivise), we kindly request that you ack
 You're free to modify the code design and incorporate additional updates to suit your needs.
 Please note that our name is not mentioned anywhere within the code itself, so providing credit is entirely optional on your part.
 
-Thank you for respecting these guidelines and happy coding!
+Thank you for respecting these guidelines and happy coding!  [Our Discord Support Server](https://discord.gg/KKCVmtTZwB)
