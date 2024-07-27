@@ -1,5 +1,5 @@
 # SpicyFlix NSFW Bot
-a cool and advanced discord verified bot with over 1.6k guilds with powefull and various used apis you can [invite here](https://discord.com/api/oauth2/authorize?client_id=1185495860008730745&permissions=40271764318272&scope=bot+applications.commands) the bot.
+a cool and advanced discord verified bot with over 1.6k guilds with powefull and various used apis you can [invite here](https://discord.com/oauth2/authorize?client_id=1185495860008730745&permissions=259845838912&integration_type=0&scope=bot) the bot.
 
 ## Installation
 - Clone the file
